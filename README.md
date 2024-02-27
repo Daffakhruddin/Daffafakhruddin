@@ -15,6 +15,6 @@ Selamat datang di profil GitHub saya! Perkenalkan nama lengkap saya Daffa Muzhaf
 # Menghubungi Saya
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 - Email: daffa.muzhaffar.tif423@polban.ac.id
-- LinkedIn: linkedin.com/in/daffa-muzhaffar-409134296
+- LinkedIn: linkedin.com/in/daffa-muzhaffar-409134296/
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
 
